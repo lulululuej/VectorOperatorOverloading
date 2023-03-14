@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cassert": "cpp",
+        "ostream": "cpp",
+        "__locale": "cpp",
+        "iostream": "cpp"
+    }
+}
